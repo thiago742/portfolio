@@ -12,7 +12,6 @@ function App() {
         <main>
           <Sobre />
           <Projetos />
-          <section>projetos</section>
         </main>
       </Container>
     </>
